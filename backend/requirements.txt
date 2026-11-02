@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+python-multipart
+pdfminer.six
+joblib
+scikit-learn
+pandas
+numpy

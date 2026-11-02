@@ -1,0 +1,9 @@
+{
+    "model_name": "Decision Tree",
+    "dataset": "resume_dataset_200k_enhanced.csv",
+    "version": "1.0_200k",
+    "training_date": "2026-09-30 15:49:14",
+    "metrics": {
+        "f1_score": 0.7089962087659002
+    }
+}
